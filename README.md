@@ -28,40 +28,40 @@
 
 ## 🧠 INSTALL WITH TERMUX :
 
-```bash
+```
 apt upgrade
-
-
+```
+```
 pkg upgrade -y
-
-
+```
+```
 pkg install git -y
-
-
+```
+```
 pkg install python -y
-
-
+```
+```
 git clone https://github.com/nxcyberlab/Banner-.git
-
-
+```
+```
 cd Banner-
-
-
+```
+```
 chmod +x *
-
-
+```
+```
 bash install.sh
-
+```
 
 ▶️ RUN :
-
+```
 exit
-
+```
 
 ⚡ INSTALL AT ONCE :
-
+```
 pkg update && apt upgrade -y ; pkg install git -y ; git clone https://github.com/nxcyberlab/Banner-.git ; cd Banner- ; chmod +x * ; bash install.sh
-
+```
 
 🧩 Use Tool
 
