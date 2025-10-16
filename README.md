@@ -1,4 +1,4 @@
-<h2 align="center"> <img src="https://raw.githubusercontent.com/DARK-H4CKER01/CODEX/refs/heads/main/NX-BANNER.jpg" width="470" /> </h2>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/nxcyberlab/Banner-/refs/heads/main/NX-BANNER.jpg" width="470" /> </h2>
 
 <p align="center">
 
