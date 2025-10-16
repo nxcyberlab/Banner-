@@ -64,7 +64,7 @@ case $choice in
     1)
         loading
         echo -e "${b}[>] Opening YouTube Channel...${n}"
-        termux-open-url "https://youtube.com/@hdshortvideo69"
+        termux-open-url "https://youtube.com/@nxcyberlab"
         sleep 2
         if [ -f "𝓷xᵇαꪀn̶e̤r.ѕh.sh" ]; then
             echo -e "${g}[+] Starting Free Version...${n}"
@@ -78,7 +78,7 @@ case $choice in
         loading
         echo -e "${g}[+] Redirecting to Telegram Premium...${n}"
         sleep 1
-        termux-open-url "https://t.me/NX.AL.IMRAN.S"
+        termux-open-url "https://t.me/NX_AL_IMRAN_S"
         ;;
     0)
         echo -e "${y}Exiting...${n}"
