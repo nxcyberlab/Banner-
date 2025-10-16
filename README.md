@@ -1,61 +1,74 @@
-<h2 align="center"> <img src="https://raw.githubusercontent.com/nxcyberlab/Banner-/refs/heads/main/NX-BANNER.jpg" width="470" /> </h2>
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/nxcyberlab/Banner-/refs/heads/main/NX-BANNER.jpg" width="470" />
+</h2>
 
 <p align="center">
+  <b>NX CYBER LAB Banner</b>
+</p>
 
-<p align="center"><b>Codex Banner</b <code></code></p>
+<p align="center">
+  <a href="https://t.me/NX_AL_IMRAN_S">
+    <img src="https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram" />
+  </a>
+</p>
 
-  [![Telegram2](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/alphacodex369)
+---
 
+## 🎥 Installation Video Tutorial
 
+<p align="center">
+  <a href="https://youtu.be/gNk8ALcoARo?si=dk1sajUK_Sa18Bwq" target="_blank">
+    <img src="https://img.youtube.com/vi/gNk8ALcoARo/0.jpg" width="480" alt="NX CYBER LAB Banner Installation Video"/>
+  </a>
+</p>
 
-## INSTALL WITH TERMUX :
+> 📺 **Watch this video** for full setup instructions.
 
-```
+---
+
+## 🧠 INSTALL WITH TERMUX :
+
+```bash
 apt upgrade
-```
-```
+
+
 pkg upgrade -y
-```
-```
+
+
 pkg install git -y
-```
-```
-pkg install python
-```
-```
-https://github.com/nxcyberlab/Banner-.git
-```
-```
+
+
+pkg install python -y
+
+
+git clone https://github.com/nxcyberlab/Banner-.git
+
+
 cd Banner-
-```
-```
+
+
 chmod +x *
-```
-```
+
+
 bash install.sh
-```
 
-### RUN :
 
-```
+▶️ RUN :
+
 exit
-```
 
-### AT ONCE :
 
-```
-pkg update && apt upgrade -y ; pkg install git -y ; git clone https://github.com/nxcyberlab/Banner-.git ; cd Banner-/ ; chmod +x * ; bash install.sh
-```
+⚡ INSTALL AT ONCE :
 
-<details id="missing-code-coverage">
-  <summary>Use Tool</summary>
+pkg update && apt upgrade -y ; pkg install git -y ; git clone https://github.com/nxcyberlab/Banner-.git ; cd Banner- ; chmod +x * ; bash install.sh
 
-##### How to use NX Banner tools
 
-```
+🧩 Use Tool
 
-```
+How to use NX Banner tools
 
-</details>
+# Example usage instructions can go here
 
-  [![Telegram1](https://img.shields.io/badge/TELEGRAM-CHANNEL-red?style=for-the-badge&logo=telegram)](https://t.me/Termuxcodex)
+
+ ``` 
+
